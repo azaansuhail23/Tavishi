@@ -7,4 +7,3 @@ print(type(list))
 print(type(tup1))
 print(type(tup2))
 
-now its fine ??
