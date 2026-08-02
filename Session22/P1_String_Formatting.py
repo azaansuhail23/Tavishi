@@ -1,6 +1,3 @@
-name="Tavishi"
-print("Hello",name)
-
 # String formatting
 _name="Azaan"
 age=24
